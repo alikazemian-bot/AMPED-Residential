@@ -59,6 +59,8 @@ AMPED-Residential/
 
 │      including ambient temperature and solar irradiance for each city
 
+└── LICENSE.txt (MIT License)
+
 
 
 Prerequisites
