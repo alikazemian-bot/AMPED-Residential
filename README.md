@@ -85,6 +85,4 @@ Summary statistics, peak demand analysis, and CSV exports for post-processing
 
 Citation
 
-Kazemian A., Kamana-Williams B.L.M., Chase J.G. (2025).
-AMPED-Residential: Agent-based Model for Predicting Electricity Demand.
-University of Canterbury, Aotearoa New Zealand.
+Kazemian, Ali; Kamana-Williams, Baxter; chase, geoff (2025), “AMPED-Residential”, Mendeley Data, V1, doi: 10.17632/h29jy9xn4x.1
